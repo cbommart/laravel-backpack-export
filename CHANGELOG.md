@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-backpack-export` will be documented in this file
 
+## 1.0.2 - 2022-11-14
+
+- Add support for Laravel Illuminate/support 9
+
 ## 1.0.1 - 2022-04-05
 
 - Add support for Backpack 5
